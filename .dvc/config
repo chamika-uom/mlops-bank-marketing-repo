@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/chamika-uom/mlops-bank-marketing-repo.dvc
